@@ -3,7 +3,10 @@ body {
   background-color: white;
   background-image: url("404.jpg");
   background-size: cover;
+<<<<<<< HEAD
   overflow: hidden;
+=======
+>>>>>>> 540ea520ad1d983d829c095274b01ad027b810da
 
 }
 
@@ -17,7 +20,11 @@ h1  {
   background-color: springgreen ;
   background-image:  url("ufoo.png");
   height:100px;
+<<<<<<< HEAD
   width: 50px;
+=======
+  width: 70px;
+>>>>>>> 540ea520ad1d983d829c095274b01ad027b810da
   border: none;
   color: rgb(8, 8, 8);
   padding: 15px 32px;
@@ -30,6 +37,11 @@ h1  {
   position: absolute;
   top: 70%;
   left: 45%;
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 540ea520ad1d983d829c095274b01ad027b810da
   animation-duration: 3s;
   animation-delay: 2s;
   animation-iteration-count: infinite;
